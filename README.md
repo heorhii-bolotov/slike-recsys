@@ -7,7 +7,7 @@
 ## Project Structure 
 
 <p float="left">
-  <img src="https://github.com/heorhii-bolotov/slike-recsys/blob/main/img.png" width="400" height="400">
+  <img src="https://github.com/heorhii-bolotov/slike-recsys/blob/master/img.png" width="400" height="400">
 </p>
 
 ## Resources
